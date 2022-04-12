@@ -38,5 +38,5 @@ Spatio-temporal action detection is localization of activities in spatial plus t
   - Anurag Arnab, Chen Sun, Arsha Nagrani, and Cordelia Schmid. *NeurIPS 2018*
 ### Semi-supervised
 
-- Actions as Moving Points. [[pdf]](https://arxiv.org/pdf/2203.04251.pdf)[[code]](https://github.com/AKASH2907/End-to-End-Semi-Supervised-Learning-for-Video-Action-Detection)
+- End-to-End Semi Supervised Learning for Video Action Detection. [[pdf]](https://arxiv.org/pdf/2203.04251.pdf)[[code]](https://github.com/AKASH2907/End-to-End-Semi-Supervised-Learning-for-Video-Action-Detection)
   - Akash Kumar, Yogesh Singh Rawat. *CVPR 2022*
